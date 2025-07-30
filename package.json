@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "@truffle/contract": "^4.6.31",
+    "react-router-dom": "^7.7.1",
+    "web3": "^4.16.0"
+  }
+}
